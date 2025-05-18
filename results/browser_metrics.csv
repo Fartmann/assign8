@@ -1,0 +1,4 @@
+Browser,Load Time (s),TTFB (ms)
+chrome,3.85,223
+firefox,3.85,288
+edge,3.65,192

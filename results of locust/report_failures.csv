@@ -1,3 +1,0 @@
-Method,Name,Error,Occurrences
-POST,/api/users,HTTPError('401 Client Error: Unauthorized for url: /api/users'),29
-POST,/api/login,HTTPError('401 Client Error: Unauthorized for url: /api/login'),31
