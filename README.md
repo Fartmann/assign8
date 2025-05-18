@@ -1,4 +1,5 @@
 # Performance Testing Report
+# P.S .docx must be open using Word or any other text editor.
 ## GOALS
 Test frontend and API performance under:
 - Browser variations (Chrome, Firefox, Edge)
